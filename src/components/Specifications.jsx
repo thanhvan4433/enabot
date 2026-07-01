@@ -29,35 +29,35 @@ function Specifications() {
                 </thead>
                 <tbody className="divide-y divide-gray-100 bg-white">
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">📷 Camera AI</td>
+                    <td className="px-4 py-3 font-semibold">Camera AI</td>
                     <td className="px-4 py-3">4K UHD (8MP)</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">🤖 AI Processor</td>
+                    <td className="px-4 py-3 font-semibold">AI Processor</td>
                     <td className="px-4 py-3">5 TOPS</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">🎤 Microphone</td>
+                    <td className="px-4 py-3 font-semibold">Microphone</td>
                     <td className="px-4 py-3">4-Mic Array</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">🔊 Speaker</td>
+                    <td className="px-4 py-3 font-semibold">Speaker</td>
                     <td className="px-4 py-3">Harman 8W</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">📡 Kết nối</td>
+                    <td className="px-4 py-3 font-semibold">Kết nối</td>
                     <td className="px-4 py-3">Wi‑Fi 2.4G / 5G</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">🔋 Pin</td>
+                    <td className="px-4 py-3 font-semibold">Pin</td>
                     <td className="px-4 py-3">2500mAh</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">🎥 Gimbal</td>
+                    <td className="px-4 py-3 font-semibold">Gimbal</td>
                     <td className="px-4 py-3">1-Axis Stabilization</td>
                   </tr>
                   <tr className="odd:bg-white even:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold">💾 Lưu trữ</td>
+                    <td className="px-4 py-3 font-semibold">Lưu trữ</td>
                     <td className="px-4 py-3">microSD đến 256GB</td>
                   </tr>
                 </tbody>

@@ -7,15 +7,17 @@ function Navbar() {
     <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          {/* Logo */}
           <a href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-r from-blue-500 to-blue-700 flex items-center justify-center shadow-md">
-              <span className="text-white text-xl font-bold">E</span>
+            <div className="w-10 h-10 rounded-xl  flex items-center justify-center shadow-md overflow-hidden">
+              <img
+                src="/logo.png"
+                alt="Enabot Logo"
+                className="w-8 h-8 object-contain"
+              />
             </div>
 
             <div className="leading-tight">
               <h1 className="text-lg font-bold text-gray-900">Enabot</h1>
-              <p className="text-xs text-blue-600 font-medium">EBO X</p>
             </div>
           </a>
 
@@ -46,6 +48,8 @@ function Navbar() {
                 Đăng ký
               </a>
             </div>
+
+
             <button
               type="button"
               onClick={() => setIsOpen((prev) => !prev)}

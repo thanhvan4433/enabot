@@ -68,9 +68,8 @@ function Footer() {
             <h4 className="text-white font-semibold mb-5">Liên hệ</h4>
 
             <ul className="space-y-3 text-sm">
-              <li>Email: support@enabot.com</li>
-              <li>Website: www.enabot.com</li>
-              <li>Hotline: +86 xxx xxx xxxx</li>
+              <li>Email: vanphan44330003@gmail.com</li>
+              <li>Hotline: 0868254679</li>
             </ul>
           </div>
         </div>

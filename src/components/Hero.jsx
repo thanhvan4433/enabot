@@ -23,13 +23,13 @@ function Hero() {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4">
-                <button className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-lg font-medium transition">
+                <button className="cursor-pointer bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-lg font-medium transition">
                   Mua ngay
                 </button>
 
                 <button
                   onClick={() => setShowVideo(true)}
-                  className="bg-gray-100 hover:bg-gray-200 text-gray-900 px-8 py-3 rounded-lg font-medium transition"
+                  className="cursor-pointer bg-gray-100 hover:bg-gray-200 text-gray-900 px-8 py-3 rounded-lg font-medium transition"
                 >
                   Xem demo EBO
                 </button>

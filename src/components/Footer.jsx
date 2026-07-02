@@ -5,10 +5,6 @@ function Footer() {
         <div className="grid md:grid-cols-4 gap-10">
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-r from-blue-500 to-blue-700 flex items-center justify-center">
-                <span className="text-white font-bold text-lg">E</span>
-              </div>
-
               <div>
                 <h3 className="text-white text-xl font-bold">Enabot</h3>
               </div>

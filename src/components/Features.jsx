@@ -1,42 +1,42 @@
 function Features() {
-  const features = [
-    {
-      icon: "📷",
-      title: "Camera AI thông minh",
-      description:
-        "Camera độ phân giải cao kết hợp AI giúp theo dõi không gian trong thời gian thực, mang đến hình ảnh rõ nét cả ngày lẫn đêm.",
-    },
-    {
-      icon: "🚗",
-      title: "Di chuyển linh hoạt",
-      description:
-        "Hệ thống bánh xe thông minh cho phép Enabot EBO di chuyển mượt mà trong nhà, quan sát những khu vực mà camera cố định không thể tiếp cận.",
-    },
-    {
-      icon: "🎯",
-      title: "Theo dõi chuyển động AI",
-      description:
-        "Công nghệ AI nhận diện và theo dõi người hoặc thú cưng tự động, giúp bạn luôn nắm bắt mọi hoạt động quan trọng.",
-    },
-    {
-      icon: "🎤",
-      title: "Giao tiếp hai chiều",
-      description:
-        "Tích hợp micro và loa chất lượng cao, cho phép gọi video và trò chuyện trực tiếp với gia đình hoặc thú cưng từ bất kỳ đâu.",
-    },
-    {
-      icon: "🛡️",
-      title: "Tuần tra thông minh",
-      description:
-        "Thiết lập lộ trình và lịch trình tuần tra tự động để kiểm tra các khu vực trong nhà ngay cả khi bạn không có mặt.",
-    },
-    {
-      icon: "🔋",
-      title: "Tự động quay về sạc",
-      description:
-        "Khi pin yếu, Enabot EBO sẽ tự động tìm và quay về đế sạc, đảm bảo luôn sẵn sàng cho những nhiệm vụ tiếp theo.",
-    },
-  ];
+ const features = [
+  {
+    icon: "🗺️",
+    title: "Lập bản đồ thông minh",
+    description:
+      "EBO X tự động ghi nhớ bố cục ngôi nhà, giúp di chuyển chính xác và tuần tra hiệu quả theo từng khu vực.",
+  },
+  {
+    icon: "🚨",
+    title: "Cảnh báo té ngã & tiếng khóc",
+    description:
+      "AI phát hiện người bị té ngã hoặc trẻ nhỏ khóc và gửi thông báo ngay đến điện thoại của bạn.",
+  },
+  {
+    icon: "📸",
+    title: "Chụp ảnh & quay video",
+    description:
+      "Lưu lại hình ảnh và video chất lượng cao để theo dõi ngôi nhà hoặc ghi lại những khoảnh khắc đáng nhớ.",
+  },
+  {
+    icon: "🔋",
+    title: "Tự động quay về sạc",
+    description:
+      "Khi pin yếu, robot tự tìm đến đế sạc và tiếp tục hoạt động sau khi sạc đầy mà không cần can thiệp.",
+  },
+  {
+    icon: "🛡️",
+    title: "Bảo vệ ngôi nhà",
+    description:
+      "Tuần tra tự động, phát hiện chuyển động bất thường và hỗ trợ giám sát an ninh 24/7.",
+  },
+  {
+    icon: "🎙️",
+    title: "Đàm thoại hai chiều",
+    description:
+      "Micro và loa tích hợp giúp bạn trò chuyện với người thân hoặc thú cưng từ bất kỳ đâu thông qua ứng dụng.",
+  },
+];
 
   return (
     <section id="features" className="py-20 md:py-32 bg-white">

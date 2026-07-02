@@ -17,33 +17,40 @@ function Benefits() {
           <div className="bg-white/10 rounded-2xl p-8 text-white">
             <div className="text-5xl mb-5">❤️</div>
 
-            <h3 className="text-2xl font-bold mb-3">Luôn an tâm dù ở xa</h3>
+            <h3 className="text-2xl font-bold mb-3">Bảo vệ gia đình bạn</h3>
 
             <p className="text-blue-100">
-              Theo dõi ngôi nhà theo thời gian thực và nhận thông báo khi có sự
-              kiện bất thường, giúp bạn yên tâm dù đang đi làm hay đi du lịch.
+              Chip X3M mạnh mẽ, dựa trên bộ xử lý lõi kép BPU được tăng tốc, kết
+              hợp với hàng chục nghìn giờ dữ liệu huấn luyện, đã giúp EBO X trở
+              thành robot gia đình di động thông minh nhất.
             </p>
           </div>
 
           <div className="bg-white/10 rounded-2xl p-8 text-white">
             <div className="text-5xl mb-5">🤝</div>
 
-            <h3 className="text-2xl font-bold mb-3">Kết nối với người thân</h3>
+            <h3 className="text-2xl font-bold mb-3">
+              Người bạn đồng hành
+            </h3>
 
             <p className="text-blue-100">
-              Dễ dàng trò chuyện với cha mẹ, con cái hoặc thú cưng mọi lúc, giúp
-              khoảng cách không còn là trở ngại.
+              Dù bạn ở bất cứ đâu và bất cứ khi nào, ứng dụng EBO HOME cho phép
+              bạn theo dõi ngôi nhà, gia đình và những người thân yêu của mình.
+              Không nơi nào ấm áp hơn nhà, và không có gì quý giá hơn gia đình.
+              Với EBO X, bạn luôn cảm thấy như đang ở nhà.
             </p>
           </div>
 
           <div className="bg-white/10 rounded-2xl p-8 text-white">
             <div className="text-5xl mb-5">✨</div>
 
-            <h3 className="text-2xl font-bold mb-3">Cuộc sống tiện nghi hơn</h3>
+            <h3 className="text-2xl font-bold mb-3">Người bạn vui chơi</h3>
 
             <p className="text-blue-100">
-              Một thiết bị duy nhất hỗ trợ giám sát, giao tiếp và đồng hành cùng
-              gia đình, giúp cuộc sống trở nên thông minh và thuận tiện hơn.
+              EBO X sử dụng điều khiển giọng nói Alexa để tương tác và công nghệ
+              âm thanh Harman AudioEFX để phát nhạc hay cho cả nhà. Thiết kế
+              đáng yêu, chuyển động linh hoạt và hiệu ứng ánh sáng thú vị mang
+              đến niềm vui cho cả gia đình.
             </p>
           </div>
         </div>
